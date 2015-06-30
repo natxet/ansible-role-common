@@ -11,6 +11,7 @@
     - chkrootkit
     - cron
     - curl
+    - gettext
     - gnupg
     - htop
     - keychain
