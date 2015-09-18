@@ -15,7 +15,7 @@
     - gnupg
     - htop
     - keychain
-    - msgfmt
+    - gettext
     - ntp
     - psmisc
     - rsync
